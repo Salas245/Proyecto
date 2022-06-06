@@ -1,3 +1,18 @@
+.header{
+    color: navy;
+    font-size: 200%;
+}
 body{
     font-family: sans-serif;
+    background: bisque;
+    
+    background-image: url('../img/banner.jpg') ;
+    background-repeat: no-repeat;
+    background-position-x: 90%;
+    background-position-y: 3%;
+    background-size: 30%;
+    background-blend-mode: darken;
+}
+hr{
+    border-color: gray;
 }
